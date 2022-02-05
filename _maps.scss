@@ -1,0 +1,7 @@
+$estilo:(
+    color: #ebebeb,
+);
+
+.parrafosConEstilo{
+    background-color: map-get($estilo,color);
+}

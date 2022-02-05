@@ -1,0 +1,25 @@
+footer { 
+    background-color: #1d94aa;
+    padding: 1.1rem;
+    text-align: center;
+}
+
+.footer__flex li{
+    display: inline-block;
+    justify-content: center;
+}
+.footer__menu{
+    list-style: none;
+    text-align: center;
+}
+.footer__menu a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.footer__credito{
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.7rem;
+}
+
+

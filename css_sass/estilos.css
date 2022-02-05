@@ -1,0 +1,107 @@
+.seccion__contenido {
+  background-color: #ebebeb;
+  padding: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+  text-align: justify;
+  width: 100%;
+}
+
+.seccion__contenido2 {
+  background-color: #ebebeb;
+  padding: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+  text-align: justify;
+  width: 100%;
+}
+
+.img__local {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.img__local {
+  width: 80%;
+}
+
+.titulo {
+  text-align: center;
+  color: #d61010;
+  font-family: fantasy;
+}
+
+.titulos {
+  background-color: #1d94aa;
+}
+
+.titulos {
+  margin-left: -2.7%;
+  text-align: center;
+  margin-right: -2.6%;
+}
+
+.items {
+  text-align: center;
+}
+
+footer {
+  background-color: #1d94aa;
+  padding: 1.1rem;
+  text-align: center;
+}
+
+.footer__flex li {
+  display: inline-block;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.footer__menu {
+  list-style: none;
+  text-align: center;
+}
+
+.footer__menu a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer__credito {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.7rem;
+}
+
+.header {
+  background-color: #ffcd00;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* --->NAV BAR<--- */
+.navbar {
+  font-family: monospace;
+}
+
+.nav-item {
+  background-color: #ffcd00;
+}
+
+.container-fluid {
+  background-color: #ffce0b;
+}
+
+.parrafosConEstilo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.parrafosConEstilo {
+  background-color: #ebebeb;
+}
+/*# sourceMappingURL=estilos.css.map */
