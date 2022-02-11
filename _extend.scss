@@ -1,0 +1,10 @@
+.parrafosConEstilo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.seccion__contenido2 {
+    @extend .seccion__contenido2;
+    font-size: 20px;
+}
